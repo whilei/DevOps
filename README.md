@@ -30,7 +30,7 @@ https://bintray.com/ethereumclassic/Go-ethereum
 
 ## docker hub
  
- https://hub.docker.com/u/ethereumclassic/dashboard/
+https://hub.docker.com/u/ethereumclassic
  
 ## debian
 
